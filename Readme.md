@@ -4,7 +4,12 @@
 This project leverages blockchain technology to reward participants of virtual conferences with a custom cryptocurrency called `ConferenceToken (CONF)`. Attendees can earn tokens for their participation, which can be transferred, traded, or used for future benefits within the ecosystem.
 
 ## Contract Address
-**Contract Address**: 0x342f69F977D0c99D34928cA9102728eD40Ac5f4E
+**Contract Address**: 
+0x342f69F977D0c99D34928cA9102728eD40Ac5f4E
+![image](https://github.com/user-attachments/assets/0305fa5a-f9b7-41bf-938f-b0069ef20286)
+
+
+
 
 ## Project Vision
 Our vision is to enhance virtual conference engagement through an incentivized token reward system. By providing participants with tangible value for their time and attention, this project aims to increase attendance rates and foster community involvement in virtual events.
